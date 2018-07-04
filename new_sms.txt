@@ -1,0 +1,9 @@
+initialize possible params
+
+call send
+
+private method
+
+get sender
+
+validation
